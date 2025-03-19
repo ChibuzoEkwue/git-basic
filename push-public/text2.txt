@@ -1,1 +1,2 @@
 Another push from github from second device
+receive from first device
